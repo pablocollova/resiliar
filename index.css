@@ -33,6 +33,13 @@ a {
   margin: 0;
 }
 
+#resiliar-btn {
+  background-image: url("/images/resiliar-palabra.png");
+  background-size: 85% 90%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .sticky {
   position: fixed;
   top: 0;
@@ -86,6 +93,8 @@ a {
   font-weight: 100;
   color: #513D3A;
   font-size: 0.6em;
+  height: 63px;
+  width: 300px;
   cursor: pointer;
   transition: all 0.4s ease;
 }
